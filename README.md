@@ -1,6 +1,10 @@
 ### Hi there 👋
-![Alt Text](https://acegif.com/wp-content/uploads/anime-love-29.gif)
+
+<p align="center">
+  <img src="https://acegif.com/wp-content/uploads/anime-love-29.gif" alt="animated" />
+</p>
 <!--
+
 **Soel30/Soel30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
