@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## &#x1f4c8; GitHub Stats
+![Soel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soel30&show_icons=true&theme=dark)
+
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Soel30)](https://github.com/ryo-ma/github-profile-trophy)
