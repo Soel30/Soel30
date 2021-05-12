@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Soel30" alt="Soel30's GitHub Trophies" />
 </a>
   </p>
+  
 ## 👨‍💻 This week, I spent my time on:
 <p align="center">
    <a href="https://github.com/Soel30/Soel30">
