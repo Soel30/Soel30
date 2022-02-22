@@ -32,6 +32,6 @@
 ## 👨‍💻 This week, I spent my time on:
 <p align="center">
    <a href="https://github.com/Soel30/Soel30">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Soel30&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Soel30's GitHub Trophies" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Soel30&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" alt="Soel30's GitHub Trophies" />
 </a>
   </p>
