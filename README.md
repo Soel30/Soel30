@@ -10,14 +10,14 @@
 
 
 ## &#x1f4c8; GitHub Stats
-
+ 
 <p align="center">
   <a href="https://github.com/Soel30/Soel30">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soel30&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&theme=omni" alt="Soel30's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni" alt="Soel30's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Soel30/Soel30">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soel30&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e&theme=omni" alt="Soel30's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soel30&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=omni" alt="Soel30's GitHub Stats" />
 </a>
  </p>
 
