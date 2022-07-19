@@ -24,7 +24,7 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/Soel30/Soel30">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Soel30&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Soel30" alt="Soel30's GitHub Trophies" />
 </a>
   </p>
   
