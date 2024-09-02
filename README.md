@@ -3,8 +3,6 @@
 </p>
 
 ### Hi there 👋
-- 🔭 I’m currently working on laravel, Go Framework ( <a href="https://gin-gonic.com/"> Gin Gonic </a>)
-- 🌱 I’m currently learning Go, React Native, ReactJs
 - 💬 Ask me about Anything
 
 
